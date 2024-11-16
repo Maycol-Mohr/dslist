@@ -19,3 +19,10 @@
 * Hibernate;
 * Maven;
 * etc.
+
+
+# Diagrama do Projeto:
+
+
+![image](https://github.com/user-attachments/assets/cef00432-8831-4eaf-bb30-df2ededce6e2)
+
